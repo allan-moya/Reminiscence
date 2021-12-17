@@ -7,6 +7,7 @@ Here's the full stack of frameworks/libraries
 * React & Redux
 * Mongoose
 * Express
+* Node.js
 
 
 ## How to Setup Development Environment 
