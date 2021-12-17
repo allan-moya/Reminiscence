@@ -24,6 +24,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Resources 
 
-[Mongodb](https://www.mongodb.com/)
-[Express](https://expressjs.com/en/guide/using-middleware.html)
-[React](https://reactjs.org/)
+
+* [Mongodb](https://www.mongodb.com/)
+* [Express](https://expressjs.com/en/guide/using-middleware.html)
+* [React](https://reactjs.org/)
